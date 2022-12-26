@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Ranchers&display=swap');
+h1{
+  border: 5px solid green;
+  margin: 200px;
+  padding: 30px;
+  font-family: 'Ranchers', cursive;
+}
+h1{
+  color: blue;
+}
+strong{
+  color:red;
+}

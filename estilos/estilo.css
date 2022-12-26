@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+}
+#container{
+  width: 400px
+}
+.m-40 {
+  border: 30px solid yellow;
+    margin: 2px;
+    padding: 6px;
+}
+h1{
+    border: 5px solid green;
+    margin: 20px;
+    padding: 60px;
+  }
