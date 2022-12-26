@@ -1,0 +1,17 @@
+.title{
+    color: red;
+  }
+  #mytittle{
+    color: orange;
+  }
+  /*Tira os parenteses pra ver a força que ele tem*/
+  (#)mytittle,d strong{
+    color: yellow;
+  }
+  h1{
+    font-size:50px;
+    color: blue;
+  }
+  *{
+    color:blueviolet;
+  }
