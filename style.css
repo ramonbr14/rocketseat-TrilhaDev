@@ -15,3 +15,17 @@
   *{
     color:blueviolet;
   }
+
+  /* shorthand*/
+
+*{
+    /*background  propriet*/
+    background-color: aliceblue;
+    background-image: url(https://cdn.dicionariopopular.com/imagens/bebado4.gif);
+    background-repeat: no-repeat;
+    background-position: left top;
+
+    /*background  shorthand*/
+    backgound: aliceblue url(https://cdn.dicionariopopular.com/imagens/bebado4.gif) no-repeat left top;
+    
+}
