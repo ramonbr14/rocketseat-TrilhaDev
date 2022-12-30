@@ -1,0 +1,29 @@
+/*header{
+    border: 10px dashed red;
+    height: 200px;
+    padding: 16px;
+    /*width: 550px;
+    background-color: aqua;
+    background-color: rgb(120,120,120);
+    background-image: url(https://i.pinimg.com/564x/70/f6/67/70f667706eb08360139cec0d18e0f225.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    /*background-size: cover;
+    background-origin: border-box;
+    /*background-origin: content-box;
+    /*background-origin: padding-box;
+    background-clip: border-box;
+} */
+main{
+    color: white;
+    background-color: rgb(120,120,120);
+    background-image: url(https://i.pinimg.com/564x/70/f6/67/70f667706eb08360139cec0d18e0f225.jpg);
+    background-repeat: repeat;
+    background-position: center;
+    background-size: contain;
+    background-attachment: scroll;
+    
+    background: linear-gradient(45deg, red, yellow, green);
+  background: radial-gradient(red, yellow, green);
+}
